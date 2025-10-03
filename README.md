@@ -1,4 +1,6 @@
-# Tarea2_Dise-o_de_una_Aventura_Interactiva
+# Tarea 2 y Práctica 2
+
+#Readme ACTUALIZADO
 
 # 🗽 New York City Explorer App
 Una aplicación de guía turística interactiva para Android, desarrollada en Kotlin, que permite a los usuarios explorar solo 3 principales puntos de interés de la ciudad de Nueva York a través de un mapa interactivo y pantallas de detalle ricas en información.
